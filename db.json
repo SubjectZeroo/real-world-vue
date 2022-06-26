@@ -1,0 +1,220 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 10000000,
+      "user": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "DAAD",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8332182,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Praesentium ratione ",
+      "description": "Harum consectetur qu",
+      "location": "Voluptates beatae au",
+      "date": "2021-12-09T03:39:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 4276306,
+      "category": "animal walfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Aut praesentium adip",
+      "description": "Odio deserunt ab cup",
+      "location": "Id sint sapiente es",
+      "date": "2021-12-02T03:39:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 580611,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Necessitatibus venia",
+      "description": "Temporibus quia cill",
+      "location": "Quod ut nihil expedi",
+      "date": "2021-12-08T04:05:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 780868,
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Voluptatum omnis cum",
+      "description": "Sed ipsum earum lab",
+      "location": "Magnam doloribus inc",
+      "date": "2021-12-01T04:05:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 213513,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Laborum voluptate qu",
+      "description": "Sunt qui dolor comm",
+      "location": "Maiores nisi tenetur",
+      "date": "2021-12-08T04:05:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 503343,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Qui aut maxime dolor",
+      "description": "Excepturi deleniti i",
+      "location": "Omnis quia maxime et",
+      "date": "2021-12-03T04:06:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 5522331,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "PRUEBA",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7125065,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "Nobis laboris velit ",
+      "description": "Animi quod accusant",
+      "location": "Sunt omnis ea aute a",
+      "date": "2021-12-02T06:10:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 4614552,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Jafeht Soturno"
+      },
+      "title": "In voluptate enim cu",
+      "description": "Voluptas nihil eius ",
+      "location": "Voluptas quod sed be",
+      "date": "2021-12-01T17:34:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    }
+  ]
+}
